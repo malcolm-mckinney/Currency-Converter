@@ -369,7 +369,7 @@
 - (IBAction)doneButtonPressed:(UIBarButtonItem *)sender {
     
     UIImage *newImage;
-    NSString *str;
+    NSString *str ;
     
     if (self.convert_to_touched) {
         [self.convert_to resignFirstResponder];
@@ -382,7 +382,7 @@
         [self.convert_from resignFirstResponder];
         self.convert_from.text = [self getCode: self.from_selected_row];
         str = [[self getCode: self.from_selected_row] stringByAppendingString: @".png"];
-        newImage = [UIImage imageNamed:str];
+        newImage = [UIImage imageNamed: str];
         [from_flag setImage:newImage];
     }
     
