@@ -7,20 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		832EA3DB170B73FF00AA3CE7 /* AUD.png in Resources */ = {isa = PBXBuildFile; fileRef = 832EA3DA170B73FF00AA3CE7 /* AUD.png */; };
+		832EA3DD170B740600AA3CE7 /* CAD.png in Resources */ = {isa = PBXBuildFile; fileRef = 832EA3DC170B740600AA3CE7 /* CAD.png */; };
+		832EA3DF170B742000AA3CE7 /* USD.png in Resources */ = {isa = PBXBuildFile; fileRef = 832EA3DE170B742000AA3CE7 /* USD.png */; };
+		832EA3E1170B743400AA3CE7 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 832EA3E0170B743400AA3CE7 /* Default-568h@2x.png */; };
+		832EA3E3170BB40600AA3CE7 /* CHF.png in Resources */ = {isa = PBXBuildFile; fileRef = 832EA3E2170BB40600AA3CE7 /* CHF.png */; };
+		832EA3E5170BB40E00AA3CE7 /* EUR.png in Resources */ = {isa = PBXBuildFile; fileRef = 832EA3E4170BB40E00AA3CE7 /* EUR.png */; };
+		832EA3E7170BB41500AA3CE7 /* GBP.png in Resources */ = {isa = PBXBuildFile; fileRef = 832EA3E6170BB41500AA3CE7 /* GBP.png */; };
+		832EA3E9170BB41D00AA3CE7 /* HKD.png in Resources */ = {isa = PBXBuildFile; fileRef = 832EA3E8170BB41D00AA3CE7 /* HKD.png */; };
+		832EA3EB170BB42E00AA3CE7 /* JPY.png in Resources */ = {isa = PBXBuildFile; fileRef = 832EA3EA170BB42E00AA3CE7 /* JPY.png */; };
+		832EA3ED170BCAB700AA3CE7 /* rates.txt in Resources */ = {isa = PBXBuildFile; fileRef = 832EA3EC170BCAB700AA3CE7 /* rates.txt */; };
+		832EA409170CC1B600AA3CE7 /* coin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 832EA408170CC1B600AA3CE7 /* coin.jpg */; };
+		832EA40B170F3AAF00AA3CE7 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 832EA40A170F3AAF00AA3CE7 /* Icon.png */; };
 		83DB38221707A2900090E3D2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 83DB38211707A2900090E3D2 /* UIKit.framework */; };
 		83DB38241707A2900090E3D2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 83DB38231707A2900090E3D2 /* Foundation.framework */; };
 		83DB38261707A2900090E3D2 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 83DB38251707A2900090E3D2 /* CoreGraphics.framework */; };
 		83DB382C1707A2900090E3D2 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 83DB382A1707A2900090E3D2 /* InfoPlist.strings */; };
 		83DB382E1707A2900090E3D2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 83DB382D1707A2900090E3D2 /* main.m */; };
 		83DB38321707A2900090E3D2 /* ConverterAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 83DB38311707A2900090E3D2 /* ConverterAppDelegate.m */; };
-		83DB38341707A2900090E3D2 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 83DB38331707A2900090E3D2 /* Default.png */; };
-		83DB38361707A2900090E3D2 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 83DB38351707A2900090E3D2 /* Default@2x.png */; };
-		83DB38381707A2900090E3D2 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 83DB38371707A2900090E3D2 /* Default-568h@2x.png */; };
 		83DB383B1707A2900090E3D2 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83DB38391707A2900090E3D2 /* MainStoryboard.storyboard */; };
 		83DB383E1707A2900090E3D2 /* ConverterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 83DB383D1707A2900090E3D2 /* ConverterViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		832EA3DA170B73FF00AA3CE7 /* AUD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AUD.png; sourceTree = "<group>"; };
+		832EA3DC170B740600AA3CE7 /* CAD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CAD.png; sourceTree = "<group>"; };
+		832EA3DE170B742000AA3CE7 /* USD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = USD.png; sourceTree = "<group>"; };
+		832EA3E0170B743400AA3CE7 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		832EA3E2170BB40600AA3CE7 /* CHF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CHF.png; sourceTree = "<group>"; };
+		832EA3E4170BB40E00AA3CE7 /* EUR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = EUR.png; sourceTree = "<group>"; };
+		832EA3E6170BB41500AA3CE7 /* GBP.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GBP.png; sourceTree = "<group>"; };
+		832EA3E8170BB41D00AA3CE7 /* HKD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HKD.png; sourceTree = "<group>"; };
+		832EA3EA170BB42E00AA3CE7 /* JPY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = JPY.png; sourceTree = "<group>"; };
+		832EA3EC170BCAB700AA3CE7 /* rates.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = rates.txt; sourceTree = "<group>"; };
+		832EA408170CC1B600AA3CE7 /* coin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = coin.jpg; sourceTree = "<group>"; };
+		832EA40A170F3AAF00AA3CE7 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = "Currency Converter/Icon.png"; sourceTree = "<group>"; };
 		83DB381E1707A2900090E3D2 /* Currency Converter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Currency Converter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		83DB38211707A2900090E3D2 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		83DB38231707A2900090E3D2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -31,9 +52,6 @@
 		83DB382F1707A2900090E3D2 /* Currency Converter-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Currency Converter-Prefix.pch"; sourceTree = "<group>"; };
 		83DB38301707A2900090E3D2 /* ConverterAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ConverterAppDelegate.h; sourceTree = "<group>"; };
 		83DB38311707A2900090E3D2 /* ConverterAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ConverterAppDelegate.m; sourceTree = "<group>"; };
-		83DB38331707A2900090E3D2 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
-		83DB38351707A2900090E3D2 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
-		83DB38371707A2900090E3D2 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		83DB383A1707A2900090E3D2 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		83DB383C1707A2900090E3D2 /* ConverterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ConverterViewController.h; sourceTree = "<group>"; };
 		83DB383D1707A2900090E3D2 /* ConverterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ConverterViewController.m; sourceTree = "<group>"; };
@@ -56,6 +74,8 @@
 		83DB38151707A2900090E3D2 = {
 			isa = PBXGroup;
 			children = (
+				832EA3E0170B743400AA3CE7 /* Default-568h@2x.png */,
+				832EA40A170F3AAF00AA3CE7 /* Icon.png */,
 				83DB38271707A2900090E3D2 /* Currency Converter */,
 				83DB38201707A2900090E3D2 /* Frameworks */,
 				83DB381F1707A2900090E3D2 /* Products */,
@@ -96,13 +116,20 @@
 		83DB38281707A2900090E3D2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				832EA3EA170BB42E00AA3CE7 /* JPY.png */,
+				832EA3E8170BB41D00AA3CE7 /* HKD.png */,
+				832EA3E6170BB41500AA3CE7 /* GBP.png */,
+				832EA3E4170BB40E00AA3CE7 /* EUR.png */,
+				832EA3DE170B742000AA3CE7 /* USD.png */,
+				832EA3EC170BCAB700AA3CE7 /* rates.txt */,
+				832EA3DC170B740600AA3CE7 /* CAD.png */,
+				832EA3DA170B73FF00AA3CE7 /* AUD.png */,
+				832EA408170CC1B600AA3CE7 /* coin.jpg */,
 				83DB38291707A2900090E3D2 /* Currency Converter-Info.plist */,
 				83DB382A1707A2900090E3D2 /* InfoPlist.strings */,
 				83DB382D1707A2900090E3D2 /* main.m */,
+				832EA3E2170BB40600AA3CE7 /* CHF.png */,
 				83DB382F1707A2900090E3D2 /* Currency Converter-Prefix.pch */,
-				83DB38331707A2900090E3D2 /* Default.png */,
-				83DB38351707A2900090E3D2 /* Default@2x.png */,
-				83DB38371707A2900090E3D2 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -160,10 +187,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				83DB382C1707A2900090E3D2 /* InfoPlist.strings in Resources */,
-				83DB38341707A2900090E3D2 /* Default.png in Resources */,
-				83DB38361707A2900090E3D2 /* Default@2x.png in Resources */,
-				83DB38381707A2900090E3D2 /* Default-568h@2x.png in Resources */,
 				83DB383B1707A2900090E3D2 /* MainStoryboard.storyboard in Resources */,
+				832EA3DB170B73FF00AA3CE7 /* AUD.png in Resources */,
+				832EA3DD170B740600AA3CE7 /* CAD.png in Resources */,
+				832EA3DF170B742000AA3CE7 /* USD.png in Resources */,
+				832EA3E1170B743400AA3CE7 /* Default-568h@2x.png in Resources */,
+				832EA3E3170BB40600AA3CE7 /* CHF.png in Resources */,
+				832EA3E5170BB40E00AA3CE7 /* EUR.png in Resources */,
+				832EA3E7170BB41500AA3CE7 /* GBP.png in Resources */,
+				832EA3E9170BB41D00AA3CE7 /* HKD.png in Resources */,
+				832EA3EB170BB42E00AA3CE7 /* JPY.png in Resources */,
+				832EA3ED170BCAB700AA3CE7 /* rates.txt in Resources */,
+				832EA409170CC1B600AA3CE7 /* coin.jpg in Resources */,
+				832EA40B170F3AAF00AA3CE7 /* Icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +335,7 @@
 				83DB38431707A2900090E3D2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
